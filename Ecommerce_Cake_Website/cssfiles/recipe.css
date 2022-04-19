@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,100&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@700&family=IBM+Plex+Sans:wght@700&display=swap');
+
+.bgimg{
+    background-image: url("../image/pic7.jpg");
+   height: 520px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.part1{
+    margin-right: 40%;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    /* justify-content: space-between; */
+}
+
+.part2{
+    background:white;
+    height: 220px;
+    width: 260px;
+    margin: 22px;
+    margin-top: 22px;
+
+}
+
+.part3{
+    background:white;
+    height: 220px;
+    width: 260px;
+    margin-top: 0px;
+}
